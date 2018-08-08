@@ -18,7 +18,8 @@ This will also help me take steps to build my portfolio, contacts, and confidenc
 4) Blog Web App made with Python, Flask, React, and MongoDB.
 5) Stock Online Dashboard(One version with a Python backend and maybe another with a Java/C++ backend). 
 6) Some sort of Web Scapper to retrieve the top 100 items in a category and look up relevant infortmation to put alongside.
-7) Contributing to an open source project
+7) Contributing to an open source project.
+8) Freecodecamp certificates.
 
 
 ## Skills to Learn/Improve ##
