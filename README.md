@@ -20,6 +20,7 @@ This will also help me take steps to build my portfolio, contacts, and confidenc
 6) Some sort of Web Scapper to retrieve the top 100 items in a category and look up relevant infortmation to put alongside.
 7) Contributing to an open source project.
 8) Freecodecamp certificates.
+9) Andriod App or React Native App
 
 
 ## Skills to Learn/Improve ##
@@ -37,9 +38,9 @@ This will also help me take steps to build my portfolio, contacts, and confidenc
 
 #### Days 1-10 #### 
 * Day 1: https://github.com/phillykid/TCP-Simulator & Coursera Course 
-* Day 2:
-* Day 3:
-* Day 4:
+* Day 2: Read the first three chapters of the book "Hands-On Machine Learning with Scikit-Learn & TensorFlow"
+* Day 3: Root Canal(I'll add today's hour on to day 4)
+* Day 4: Coursera ML Course. Finishing up week 3 and starting a tutorial on andriod development. 
 * Day 5:
 * Day 6:
 * Day 7:
